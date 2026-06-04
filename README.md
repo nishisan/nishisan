@@ -8,6 +8,8 @@ My work usually lives where architecture, infrastructure, and implementation mee
 
 I am based in Curitiba, Brazil, and I build mostly around JVM, Go, Linux, networking, and systems that need to keep behaving well under real-world constraints.
 
+Most of my current public engineering work is organized under [nishisan-dev](https://github.com/nishisan-dev/).
+
 ## Projects I care about
 
 ### [n-backup](https://github.com/nishisan-dev/n-backup)
@@ -68,4 +70,5 @@ Codex, Claude, Gemini, agent-driven repository exploration, implementation plann
 
 - Website: [nishisan.dev](https://nishisan.dev)
 - GitHub: [@nishisan](https://github.com/nishisan)
+- Organization: [nishisan-dev](https://github.com/nishisan-dev/)
 - Location: Curitiba, PR, Brazil
